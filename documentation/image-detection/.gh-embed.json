@@ -9,6 +9,16 @@
       "label": "Node.js",
       "type": "js",
       "path": "documentation/image-detection/request.js"
+    },
+    {
+      "label": "Python",
+      "type": "py",
+      "path": "documentation/image-detection/request.py"
+    },
+    {
+      "label": "Go",
+      "type": "go",
+      "path": "documentation/image-detection/request.go"
     }
   ]
 }
