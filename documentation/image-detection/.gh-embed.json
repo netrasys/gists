@@ -1,12 +1,14 @@
 {
-	"embed": [{
-		"label":"cURL",
-		"type":"bash",
-		"path": "request.bash"
-	},
-	{
-		"label":"Node.js",
-		"type":"js",
-		"path": "request.js"
-	}]
+  "embed": [
+    {
+      "label": "cURL",
+      "type": "bash",
+      "path": "request.bash"
+    },
+    {
+      "label": "Node.js",
+      "type": "js",
+      "path": "request.js"
+    }
+  ]
 }
