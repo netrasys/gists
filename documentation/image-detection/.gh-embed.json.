@@ -1,0 +1,12 @@
+{
+	"embed": [{
+		"label":"cURL",
+		"type":"bash",
+		"path": "documentation/image-detection/request.bash"
+	},
+	{
+		"label":"Node.js",
+		"type":"js",
+		"path": "documentation/image-detection/request.js"
+	}]
+}
